@@ -1,0 +1,9 @@
+{
+	"name": "hos-adf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6e39dd2b-7f49-45c5-87d0-5813b90cdb6d",
+		"tenantId": "ebe428e8-db80-4ba9-b925-413f666aabc4"
+	}
+}
